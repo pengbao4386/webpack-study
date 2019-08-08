@@ -1,0 +1,17 @@
+{
+  "name": "webpack4.x",
+  "version": "1.0.0",
+  "description": "webapack study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --config webpack.config.js",
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "pon",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  }
+}
